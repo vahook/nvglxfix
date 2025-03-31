@@ -2,7 +2,7 @@
 
 ## What's this
 
-A possible fix for the random nvidia linux driver hangs on X. Might also fix https://github.com/ValveSoftware/gamescope/issues/1592 (NV 4924590) .
+A possible fix for the random nvidia linux driver hangs on X. Might also be related to https://github.com/ValveSoftware/gamescope/issues/1592 (NV 4924590) .
 
 ## Using it
 
